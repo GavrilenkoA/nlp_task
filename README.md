@@ -1,9 +1,7 @@
 # nlp_task
 #### загрузка необходимых библиотек
-```bash
-pip install -r requirements.txt
 '''
-
+pip install -r requirements.txt
 
 __Структура репозитория:__
 1. intro.ipynb - токенизация и лемматизация заголовков (titles)
