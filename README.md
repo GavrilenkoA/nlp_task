@@ -1,7 +1,7 @@
 # nlp_task
 #### загрузка необходимых библиотек в виртуальном окружении
 
-    ```bash
+    ```
     conda create -n nlp_task python=3.10.12
     conda activate nlp_task
     pip install -r requirements.txt
