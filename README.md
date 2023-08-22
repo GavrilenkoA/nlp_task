@@ -1,7 +1,10 @@
 # nlp_task
-#### загрузка необходимых библиотек
-'''
-pip install -r requirements.txt
+#### загрузка необходимых библиотек в виртуальном окружении
+    ```bash
+    conda create -n nlp_task python=3.10.12
+    conda activate nlp_task
+    pip install -r requirements.txt
+    ```
 
 __Структура репозитория:__
 1. intro.ipynb - токенизация и лемматизация заголовков (titles)
