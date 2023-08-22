@@ -1,6 +1,6 @@
 # nlp_task
 #### загрузка необходимых библиотек
-pip install -r requirements.txt
+'''pip install -r requirements.txt'''
 __Структура репозитория:__
 1. intro.ipynb - токенизация и лемматизация заголовков (titles)
 2. train.ipynb - обучение knn и catboost с использованием TF-IDF и эмбедингов языковой модели navec
